@@ -1,2 +1,2 @@
 # hello
-jist test github
+just test github
